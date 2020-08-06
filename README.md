@@ -4,7 +4,10 @@ Flutter Bloc Demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Sử dụng quản lý state trong ứng dụng flutter.
+- Ứng dụng cho phép nhập vào một số nguyên.
+- Nhấn tăng hoạc giảm. Màn hình hiển thị loading khi đang thực hiện phép tính. Sau khi 
+nhận kết quả sẽ hiển thị ra màn hình.
 
 A few resources to get you started if this is your first Flutter project:
 
